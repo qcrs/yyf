@@ -1,0 +1,23 @@
+{
+  "greeting": "Hi",
+  "name": "杨狗",
+  "greetingText": "今天是8月30日",
+  "wishText": "愿所有美好如期而至。愿生活多些幸运! :)",
+  "imagePath": "img/yyf.png",
+  "text1": "今天是你的生日!!! :D",
+  "textInChatBox": "祝你生日快乐！！！ 永远开心",
+  "sendButtonLabel": "Send",
+  "text2": "我本来想那样做",
+  "text3": "但我停了下来",
+  "text4": "我觉得，我应该用另外一种方式来祝贺",
+  "text4Adjective": "special",
+  "text5Entry": "因为,",
+  "text5Content": "You are Special",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "生日快乐！！！",
+  "outroText": "以后的生活不将就。要长大，要不负众望！",
+  "replayText": "if you want to watch it again.",
+  "outroSmiley": ":)"
+}
